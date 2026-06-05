@@ -4,7 +4,7 @@ email: gomatsuli@yahoo.com
 description: > # I make wigs. And specialize in african styles.
   
 baseurl: "/gift"
-url: "https://dename.github.io/gift" # the base hostname & protocol for your site
+url: "https://dename.github.io"
 github_username:  daname
 
 # Build settings
