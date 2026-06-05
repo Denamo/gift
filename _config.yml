@@ -4,8 +4,8 @@ email: gomatsuli@yahoo.com
 description: > # I make wigs. And specialize in african styles.
   
 baseurl: "/gift"
-url: "https://dename.github.io"
-github_username:  daname
+url: "https://denamo.github.io"
+github_username:  denamo
 
 # Build settings
 markdown: kramdown
