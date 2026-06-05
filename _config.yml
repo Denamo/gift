@@ -1,0 +1,12 @@
+# Site settings
+title: Gift Hair
+email: gomatsuli@yahoo.com
+description: > # I make wigs. And specialize in african styles.
+  
+baseurl: "/site"
+url: "https://dename.github.io/gift" # the base hostname & protocol for your site
+github_username:  daname
+
+# Build settings
+markdown: kramdown
+permalink: /:year/:title:output_ext
